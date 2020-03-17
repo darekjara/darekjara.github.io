@@ -15,13 +15,13 @@ Na dolním okraji scény se objeví Anna. Rapunzel v horní a střední části.
 Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způsobuje náhodná doba mezi jejich pohybem tam a zpět a jejich mizením a opětovným objevením. Tato náhodnost vnáší do hry prvek nepředvídatelnosti. 
 
 
-![](/images/EA-dangerous-journey-snippet-02.png)
+| ![](/images/EA-dangerous-journey-snippet-02.png) |
+|:--:| 
+| *Pohyb a mizení Rapunzel* |
 
-*Pohyb a mizení Rapunzel*
-
-![](/images/EA-dangerous-journey-snippet-03.png)
-
-*Ovládání Anny*
+| ![](/images/EA-dangerous-journey-snippet-03.png) |
+|:--:|
+| *Ovládání Anny* |
 
 ### Úspěch versus neúspěch
 Pokud Anna dojde k hornímu okraji, objeví se Elsa a putuje dolů. Poté se navýší skóre a Elsa se skrytě vrací zpátky k hornímu okraji. Dokud neproběhne celá sekvence kódu, nelze Elsu znovu přivolat. Nestačí tedy nechat Annu u horního okraje a čekat na navyšování skóre. Navíc se zvyšuje riziko, že se objeví Rapunzel... Anna se tedy musí hýbat.
@@ -32,5 +32,5 @@ Jakmile se Rapunzel přiblíží k Anně, skóre se snižuje. Jediné bezpečné
 
 ![](/images/EA-dangerous-journey-snippet-05.png)
 
-##Hra
+## Hra
 Hra je úmístěna na [code.org](https://studio.code.org/projects/infinity/eod1mzE19WdhZu80Of-wnkgn_N9hQ368lkf0X9tnzN4)
