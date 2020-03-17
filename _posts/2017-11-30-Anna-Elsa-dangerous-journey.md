@@ -9,15 +9,20 @@ V pokoji bylo chladno. Přetáhl si deku k bradě. Usnul. Vstoupil do snění o 
 ## Script
 ### Úvodní scéna
 Na dolním okraji scény se objeví Anna. Rapunzel v horní a střední části.
+
 ![](/images/EA-dangerous-journey-snippet-01.png)
 ### Ovládání postav
 Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způsobuje náhodná doba mezi jejich pohybem tam a zpět a jejich mizením a opětovným objevením. Tato náhodnost vnáší do hry prvek nepředvídatelnosti. 
 
-Pohyb a mizení Rapunzel
+
 ![](/images/EA-dangerous-journey-snippet-02.png)
 
-Ovládání Anny
+<small>Pohyb a mizení Rapunzel</small>
+
 ![](/images/EA-dangerous-journey-snippet-03.png)
+
+*Ovládání Anny*
+
 ### Úspěch versus neúspěch
 Pokud Anna dojde k hornímu okraji, objeví se Elsa a putuje dolů. Poté se navýší skóre a Elsa se skrytě vrací zpátky k hornímu okraji. Dokud neproběhne celá sekvence kódu, nelze Elsu znovu přivolat. Nestačí tedy nechat Annu u horního okraje a čekat na navyšování skóre. Navíc se zvyšuje riziko, že se objeví Rapunzel... Anna se tedy musí hýbat.
 ![](/images/EA-dangerous-journey-snippet-04.png)
