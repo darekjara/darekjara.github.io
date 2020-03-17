@@ -17,7 +17,7 @@ Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způso
 
 ![](/images/EA-dangerous-journey-snippet-02.png)
 
-<small>Pohyb a mizení Rapunzel</small>
+*Pohyb a mizení Rapunzel*
 
 ![](/images/EA-dangerous-journey-snippet-03.png)
 
@@ -25,7 +25,9 @@ Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způso
 
 ### Úspěch versus neúspěch
 Pokud Anna dojde k hornímu okraji, objeví se Elsa a putuje dolů. Poté se navýší skóre a Elsa se skrytě vrací zpátky k hornímu okraji. Dokud neproběhne celá sekvence kódu, nelze Elsu znovu přivolat. Nestačí tedy nechat Annu u horního okraje a čekat na navyšování skóre. Navíc se zvyšuje riziko, že se objeví Rapunzel... Anna se tedy musí hýbat.
+
 ![](/images/EA-dangerous-journey-snippet-04.png)
 
 Jakmile se Rapunzel přiblíží k Anně, skóre se snižuje. Jediné bezpečné místo je pro Annu spodní okraj hrací plochy.
+
 ![](/images/EA-dangerous-journey-snippet-05.png)
