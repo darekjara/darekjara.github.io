@@ -8,7 +8,7 @@ V pokoji bylo chladno. Přetáhl si deku k bradě. Usnul. Vstoupil do snění o 
 
 | ![](/images/EA-dangerous-journey.png) |
 |:--:| 
-| * Úvodní scéna * |
+| *Úvodní scéna* |
 
 ## Script
 ### Úvodní scéna
@@ -16,7 +16,7 @@ Na dolním okraji scény se objeví Anna. Rapunzel v horní a střední části.
 
 | ![](/images/EA-dangerous-journey-snippet-01.png) |
 |:--:| 
-| * Kód pro rozestavení postav * |
+| *Kód pro rozestavení postav* |
 
 ### Ovládání postav
 Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způsobuje náhodná doba mezi jejich pohybem tam a zpět a jejich mizením a opětovným objevením. Tato náhodnost vnáší do hry prvek nepředvídatelnosti. 
@@ -25,7 +25,7 @@ Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způso
 | ![](/images/EA-dangerous-journey-snippet-02.png) |
 |:--:| 
 | *Pohyb a mizení Rapunzel* |
-* *  
+* *
   
 | ![](/images/EA-dangerous-journey-snippet-03.png) |
 |:--:|
@@ -36,13 +36,13 @@ Pokud Anna dojde k hornímu okraji, objeví se Elsa a putuje dolů. Poté se nav
 
 | ![](/images/EA-dangerous-journey-snippet-04.png) |
 |:--:| 
-| ** |
+| *Zisk bodů * |
 
 Jakmile se Rapunzel přiblíží k Anně, skóre se snižuje. Jediné bezpečné místo je pro Annu spodní okraj hrací plochy.
 
 | ![](/images/EA-dangerous-journey-snippet-05.png) |
 |:--:| 
-| ** |
+| *Ztráta bodů* |
 
 ## Hra
 Hra je úmístěna na [code.org](https://studio.code.org/projects/infinity/eod1mzE19WdhZu80Of-wnkgn_N9hQ368lkf0X9tnzN4)
