@@ -34,3 +34,6 @@ Jakmile se Rapunzel přiblíží k Anně, skóre se snižuje. Jediné bezpečné
 
 ## Hra
 Hra je úmístěna na [code.org](https://studio.code.org/projects/infinity/eod1mzE19WdhZu80Of-wnkgn_N9hQ368lkf0X9tnzN4)
+=======
+Hra je úmístěna na [code.org](https://studio.code.org/projects/infinity/eod1mzE19WdhZu80Of-wnkgn_N9hQ368lkf0X9tnzN4)
+>>>>>>> c82c3f930e2c65385222331c3852379bf22a2c8e
