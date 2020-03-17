@@ -12,8 +12,10 @@ Ukradeno
 - slova
 - kresby
 - kód
+
 Upraveno
 - slova
 - kresby
 - kód
+
 Vytvořeno.
