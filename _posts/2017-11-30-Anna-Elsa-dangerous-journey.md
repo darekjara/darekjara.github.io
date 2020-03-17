@@ -8,7 +8,7 @@ V pokoji bylo chladno. Přetáhl si deku k bradě. Usnul. Vstoupil do snění o 
 
 | ![](/images/EA-dangerous-journey.png) |
 |:--:| 
-| ** |
+| * Úvodní scéna * |
 
 ## Script
 ### Úvodní scéna
@@ -16,7 +16,7 @@ Na dolním okraji scény se objeví Anna. Rapunzel v horní a střední části.
 
 | ![](/images/EA-dangerous-journey-snippet-01.png) |
 |:--:| 
-| ** |
+| * Kód pro rozestavení postav * |
 
 ### Ovládání postav
 Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způsobuje náhodná doba mezi jejich pohybem tam a zpět a jejich mizením a opětovným objevením. Tato náhodnost vnáší do hry prvek nepředvídatelnosti. 
