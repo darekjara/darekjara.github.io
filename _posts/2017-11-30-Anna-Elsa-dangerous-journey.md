@@ -36,7 +36,7 @@ Pokud Anna dojde k hornímu okraji, objeví se Elsa a putuje dolů. Poté se nav
 
 | ![](/images/EA-dangerous-journey-snippet-04.png) |
 |:--:| 
-| *Zisk bodů * |
+| *Zisk bodů* |
 
 Jakmile se Rapunzel přiblíží k Anně, skóre se snižuje. Jediné bezpečné místo je pro Annu spodní okraj hrací plochy.
 
