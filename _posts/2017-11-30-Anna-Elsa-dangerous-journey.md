@@ -23,8 +23,8 @@ Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způso
 | ![](/images/EA-dangerous-journey-snippet-02.png) |
 |:--:| 
 | *Pohyb a mizení Rapunzel* |
-
-
+  
+  
 | ![](/images/EA-dangerous-journey-snippet-03.png) |
 |:--:|
 | *Ovládání Anny* |
