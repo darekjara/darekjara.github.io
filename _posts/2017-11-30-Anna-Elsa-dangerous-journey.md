@@ -26,6 +26,7 @@ Kód pro pohyb a mizení obou postav Rapunzel má stejnou podobu. Rozdíl způso
 |:--:| 
 | *Pohyb a mizení Rapunzel* |
 
+<br>
 
 | ![](/images/EA-dangerous-journey-snippet-03.png) |
 |:--:|
