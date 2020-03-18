@@ -65,7 +65,12 @@ A ti, co chtějí masakr nebo zkoumat niternou rovnováhu mezi strategiemi velk�
 |:--:|
 | *Nestandardně vybavené ovládací šipky* |
 
+## Hra
+
+Hra je úmístěna na [code.org](https://studio.code.org/projects/basketball/2Ksd3dsBxmy9W0XmTmNi9B_nmTHR13BrG8tARq9u6xI){:target="_blank"}
+
 <br>
+
 
 ```
 Poděl se o průběh a výsledky zkoumání na email:@
