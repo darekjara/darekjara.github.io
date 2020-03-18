@@ -9,14 +9,14 @@ Opět se mu zdálo o Else a Anně. Stály v odlehlém rohu zahrady. Rozhlížely
 
 Až už to bylo příliš. Dostaly se k protilehlým stranám zahrady... A nešlo je vrátit zpátky... Probudil se v pláči.
 
-| [![](/images/EA-dying-to-meet.png)][/images/EA-dying-to-meet.png] |
+| ![](/images/EA-dying-to-meet.png) |
 |:--:| 
 | *Úvodní scéna* |
 
 ## Script
 ### Úvodní scéna
 
-| [![](/images/EA-dying-to-meet-snippet-01.png)][/images/EA-dying-to-meet-snippet-01.png] |
+| [![](/images/EA-dying-to-meet-snippet-01.png)][picture1] |
 |:--:|
 | *Začátek kódu při spuštění* |
 
@@ -25,7 +25,7 @@ Kód pro ovládání postav je obdobný. Liší se ve vzdálenosti, o kterou se 
 
 Zbytek kódu jsou jednotlivé podmínky, co se stane, když se postava dotane na konec hrací plochy.
 
-| ![](/images/EA-dying-to-meet-snippet-02.png) |
+| [![](/images/EA-dying-to-meet-snippet-02.png)][picture2] |
 |:--:|
 | *Příběh vystavěný z ovládacích prvků* |
 
@@ -34,3 +34,7 @@ Hra vyžaduje delikátní přístup. Dostat postavy k sobě vyžaduje jen málo 
 
 ## Hra
 Hra je úmístěna na [code.org](https://studio.code.org/projects/infinity/IFXk2uxprcx598tZDp38gp3IA34L0-8FhjjxPFUtKTI){:target="_blank"}
+
+<!-- Identifiers, in alphabetical order -->
+[picture1]: /images/EA-dying-to-meet-snippet-01.png "Entlarge the picture"
+[picture2]: /images/EA-dying-to-meet-snippet-02.png "Entlarge the picture"
