@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dangerous journey
-categories: [Anna a Elsa, Coding]
+categories: [Anna a Elsa, Code.org]
 excerpt: V pokoji bylo chladno. Přetáhl si deku k bradě. Usnul. Vstoupil do snění o Else a Anně. Byl Annou. Všude kolem led a chlad. Nebyl zde sám. Byla zde i Rapunzel. Slídila po něm. Ne jedna. Rovnou dvě. Mizely a zase se objevovaly. Tušil, že tam někde na druhém konci té ledové plochy na něj čeká Elsa.
 ---
 V pokoji bylo chladno. Přetáhl si deku k bradě. Usnul. Vstoupil do snění o Else a Anně. Byl Annou. Všude kolem led a chlad. Nebyl zde sám. Byla zde i Rapunzel. Slídila po něm. Ne jedna. Rovnou dvě. Mizely a zase se objevovaly. Tušil, že tam někde na druhém konci té ledové plochy na něj čeká Elsa. Potřebuje otevřít bránu. Ukázat cestu přes ledovou pláň. Věděl, že se musí vyhnout zlé Rapunzel a přivést Elsu do bezpečí. Podaří se mu to?

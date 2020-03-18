@@ -4,7 +4,6 @@ title: Basketball - Follow the Rules
 categories: [Code.org, Psychology]
 excerpt: T: "co to děláš?" M: "hraju basket." T: "dyť sedíš u počítače." .... Na rozhovoru není psychologicky moc zajímavého. Klasickou kontrolní otázku rodiče "co to děláš?" není třeba vnímat přímo negativně. Může vyplývat z kontextu, ačkoliv by měla být nahrazena spíše pozdravem.
 ---
-
 > T: "Co to děláš?"
 >
 > M: "Hraju basket."
@@ -68,8 +67,10 @@ A ti, co chtějí masakr nebo zkoumat niternou rovnováhu mezi strategiemi velk�
 
 <br>
 
+
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
+{: #puzzle}
+
 ```
-<i class="fas at" aria-hidden="true"></i> Odpověz:
-{: #at} 
 Poděl se o průběh a výsledky zkoumání na email:@
 ```
