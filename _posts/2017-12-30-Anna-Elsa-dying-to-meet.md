@@ -15,7 +15,7 @@ Až už to bylo příliš. Dostaly se k protilehlým stranám zahrady... A nešl
 
 ## Script
 ### Úvodní scéna
-| EA-dying-to-meet-snippet-01.png |
+|![](/images/EA-dying-to-meet-snippet-01.png) |
 |:--:|
 | *Začátek kódu při spuštění* |
 
@@ -24,7 +24,7 @@ Kód pro ovládání postav je obdobný. Liší se ve vzdálenosti, o kterou se 
 
 Zbytek kódu jsou jednotlivé podmínky, co se stane, když se postava dotane na konec hrací plochy.
 
-| EA-dying-to-meet-snippet-02.png |
+|![](/images/EA-dying-to-meet-snippet-02.png) |
 |:--:|
 | *Příběh vystavěný z ovládacích prvků* |
 
