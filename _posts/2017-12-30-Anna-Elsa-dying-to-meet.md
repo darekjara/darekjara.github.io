@@ -9,14 +9,14 @@ Opět se mu zdálo o Else a Anně. Stály v odlehlém rohu zahrady. Rozhlížely
 
 Až už to bylo příliš. Dostaly se k protilehlým stranám zahrady... A nešlo je vrátit zpátky... Probudil se v pláči.
 
-| ![](/images/EA-dying-to-meet.png) |
+| [![](/images/EA-dying-to-meet.png)][/images/EA-dying-to-meet.png] |
 |:--:| 
 | *Úvodní scéna* |
 
 ## Script
 ### Úvodní scéna
 
-| ![](/images/EA-dying-to-meet-snippet-01.png) |
+| [![](/images/EA-dying-to-meet-snippet-01.png)][/images/EA-dying-to-meet-snippet-01.png] |
 |:--:|
 | *Začátek kódu při spuštění* |
 
