@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seeking the right Elsa
-categories: [Anna a Elsa, Coding]
+categories: [Anna a Elsa, Code.org]
 excerpt: Opět snil sen o Else a Anně. Elsa se objevila uprostřed louky. Byla v dobré náladě. Obrátila se na něj a pozdravila ho. Dnes jí to neobyčejně slušelo. Náhle se na kraji louky objevila zlá Rapunzel.
 ---
 Opět snil sen o Else a Anně. Elsa se objevila uprostřed louky. Byla v dobré náladě. Obrátila se na něj a pozdravila ho. Dnes jí to neobyčejně slušelo. Náhle se na kraji louky objevila zlá Rapunzel. Projel jím záblesk obavy. I Elsa se poděsila. Rapunzel se k ní rychle přiblížila. Vyslovila nějaké kouzlo a kolem se rozletěly kusy ledu. Proměnila Elsu v Rapunzel. V ten moment se na zahradě objevily dvě další postavy Rapunzel. Celá zahrada se zatočila. Rapunzel změnily podobu na Elsu. Na zahradě stály čtyři Elsy. Ale která byla ta pravá?

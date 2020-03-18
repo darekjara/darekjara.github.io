@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dying to meet each other
-categories: [Anna a Elsa, Coding]
+categories: [Anna a Elsa, Code.org]
 excerpt: Opět se mu zdálo o Else a Anně. Stály v odlehlém rohu zahrady. Rozhlížely se a čekaly. Na co? Dolehla k němu jejich silná potřeba se potkat.
 ---
 
