@@ -36,5 +36,5 @@ Hra vyžaduje delikátní přístup. Dostat postavy k sobě vyžaduje jen málo 
 Hra je úmístěna na [code.org](https://studio.code.org/projects/infinity/IFXk2uxprcx598tZDp38gp3IA34L0-8FhjjxPFUtKTI){:target="_blank"}
 
 <!-- Identifiers, in alphabetical order -->
-[picture1]: /images/EA-dying-to-meet-snippet-01.png "Entlarge the picture"
-[picture2]: /images/EA-dying-to-meet-snippet-02.png "Entlarge the picture"
+[picture1]: /images/EA-dying-to-meet-snippet-01.png "Enlarge the picture"
+[picture2]: /images/EA-dying-to-meet-snippet-02.png "Enlarge the picture"
