@@ -67,10 +67,6 @@ A ti, co chtějí masakr nebo zkoumat niternou rovnováhu mezi strategiemi velk�
 
 <br>
 
-
-### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
-{: #puzzle}
-
 ```
 Poděl se o průběh a výsledky zkoumání na email:@
 ```
