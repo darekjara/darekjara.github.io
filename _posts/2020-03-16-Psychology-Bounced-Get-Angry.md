@@ -51,7 +51,7 @@ Rozšiřuje předchozí nastavení. Jeho výhodou je, že se dá přesněji nast
 | *Doleva normálně, doprava dvakrát rychleji* |
 
 Správný psycholog testuje hranice. Odkdy přestane být větší rychlost pohybu výhoda? Kdy se začne úspěšnost lámat?
-Jakou má zvyšující se počet příkazů po pohyb jedním směrem křivku úspěchu? 
+Jakou má zvyšující se počet příkazů pro pohyb jedním směrem křivku úspěchu? 
 
 | ![](/images/PSY-Bounced-Get-Angry-snippet-06.png) |
 |:--:|
