@@ -4,9 +4,11 @@ title: Bounced - Get Angry with your Code
 categories: [Code.org, Psychology]
 excerpt: Město v karanténě. Doma ponorková nemoc. Není do čeho píchnout. Nejvhodnější chvíle najít pět způsobů, jak zvýšit míru sebe frustrace. Na pomoc opět přichází code.org a jednoduchá Bounce hra.
 ---
+
 | ![](/images/PSY-Bounced-Get-Angry.png) |
 |:--:|
 | *Základní pravidla hry* |
+
 Město v karanténě. Doma ponorková nemoc. Není do čeho píchnout. Nejvhodnější chvíle najít pět způsobů, jak zvýšit míru sebe frustrace. Na pomoc opět přichází code.org a jednoduchá Bounce hra.
 
 Smyslem hry je zasáhnout míč a trefit se do prostoru branky. Využít lze i odrazy od stěn. Pravidla přímočará, příkazových bloků málo, hru vytvoří i začátečník. Vytočit se během chvíle zvládne tedy každý.
@@ -22,7 +24,7 @@ A teď začne zábava. Dobré je připravit si vhodné podmínky hned při spuš
 
 | ![](/images/PSY-Bounced-Get-Angry-snippet-02.png) |
 |:--:|
-| *Podmínky po startu* |
+| *Nastavení po startu* |
 
 ## 5 příležitostí pro frustraci a hněv
 ### Případ 1.
@@ -76,6 +78,8 @@ Nastav "random" ke všem zásadním událostem ve hře. A to buď tak, jak je v 
 | ![](/images/PSY-Bounced-Get-Angry-snippet-09.png) |
 |:--:|
 | *Kombinace rychlosti míče a pálky* |
+
+<br>
 
 ```
 Tip: Nejslibnější je náhodná rychlost míče při jeho odrazu od stěn.
