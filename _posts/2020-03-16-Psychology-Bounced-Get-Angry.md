@@ -5,11 +5,11 @@ categories: [Code.org, Psychology]
 excerpt: Město v karanténě. Doma ponorková nemoc. Není do čeho píchnout. Nejvhodnější chvíle najít pět způsobů, jak zvýšit míru sebe frustrace. Na pomoc opět přichází code.org a jednoduchá Bounce hra.
 ---
 
+Město v karanténě. Doma ponorková nemoc. Není do čeho píchnout. Nejvhodnější chvíle najít pět způsobů, jak zvýšit míru sebe frustrace. Na pomoc opět přichází code.org a jednoduchá Bounce hra.
+
 | ![](/images/PSY-Bounced-Get-Angry.png) |
 |:--:|
 | *Základní pravidla hry* |
-
-Město v karanténě. Doma ponorková nemoc. Není do čeho píchnout. Nejvhodnější chvíle najít pět způsobů, jak zvýšit míru sebe frustrace. Na pomoc opět přichází code.org a jednoduchá Bounce hra.
 
 Smyslem hry je zasáhnout míč a trefit se do prostoru branky. Využít lze i odrazy od stěn. Pravidla přímočará, příkazových bloků málo, hru vytvoří i začátečník. Vytočit se během chvíle zvládne tedy každý.
 
