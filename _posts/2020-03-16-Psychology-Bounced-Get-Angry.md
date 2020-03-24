@@ -81,9 +81,7 @@ Nastav "random" ke všem zásadním událostem ve hře. A to buď tak, jak je v 
 
 <br>
 
-```
-Tip: Nejslibnější je náhodná rychlost míče při jeho odrazu od stěn.
-```
+>Tip: Nejslibnější je náhodná rychlost míče při jeho odrazu od stěn.
 
 ## Závěrečné doporučení psychologa
 Kdo se propracoval až sem, získává doporučení psychologa. Doporučení vyzkoušet poslední ukázku nervů. Mistr vysoké frustrační tolerance se pozná podle toho, že si umí počkat. Nastaví paddle do správné polohy, sedne si na ruce a počká na skóre.
