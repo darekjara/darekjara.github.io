@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Hide and Seek
-categories: [Anna a Elsa, Code.org]
-excerpt: Z dnešního snu o Else a Anně se probudil s dobrou náladou. I Rapunzel ve snu radostně usmívala. Zvláštní. Jakoby je všechny zkoušela. Dnes si chtěla hrát na schovávanou.
 ---
 
 Z dnešního snu o Else a Anně se probudil s dobrou náladou. I Rapunzel ve snu radostně usmívala. Zvláštní. Jakoby je všechny zkoušela. Dnes si chtěla hrát na schovávanou.
@@ -17,18 +15,3 @@ Kdo chytí Annu a Elsu? Ale pozor, na Rapunzel raději neklikej!
 ## Script
 ### Úvodní scéna
 Animace úvodní scény je nezvykle dlouhá. Proč? Vytvořit epický děj, kde se postavy k sobě postupně přibližují, mluví spolu, vzdalují se, přichází někdo další, zapojuje se do rozhovoru a zase odchází, vyžaduje dlouhou sekvenci kroků s dobrým načasováním. Jedná se o obdobu scénáře k filmu nebo divadelního skriptu.
-
-| [![](/images/EA-hide-seek-snippet-01.png)][picture1] |
-|:--:|
-| *Začátek kódu při spuštění* |
-
-Pokračování úvodní scény. V momentě, kdy se postava Rapunzel pohne téměř na konci předchozího algoritmu na dolní okraj scény, začnou se současně hýbat Anna i Elsa. Každá svým směrem. Pokud by sekvence byla součástí předchozího algoritmu, holky by se mohly hýbat teprve jedna po druhé a výsledný dojem by postrádal na dynamičnosti.
-Poslední algoritmus tvoří můstek do další části hry. Postavy Anny a Elsy mizí a místo nich se objevují... znovu Anna a Elsa. Ale které? A proč?
-
-Pokračování úvodní scény. V momentě, kdy se postava Rapunzel pohne téměř na konci předchozího algoritmu na dolní okraj scény, začnou se současně hýbat Anna i Elsa. Každá svým směrem. Pokud by sekvence byla součástí úvodního algoritmu, postavy by se hýbaly jedna po druhé a výsledný dojem by postrádal na dynamičnosti.
-
-<!-- Identifiers, in alphabetical order -->
-[picture1]: /images/EA-hide-seek-snippet-01.png "Enlarge the picture"
-[picture2]: /images/EA-hide-seek-snippet-02.png "Enlarge the picture"
-[picture3]: /images/EA-hide-seek-snippet-03.png "Enlarge the picture"
-[picture4]: /images/EA-hide-seek-snippet-04.png "Enlarge the picture"
