@@ -8,6 +8,7 @@ excerpt: Z dnešního snu o Else a Anně se probudil s dobrou náladou. I Rapunz
 Z dnešního snu o Else a Anně se probudil s dobrou náladou. I Rapunzel ve snu radostně usmívala. Zvláštní. Jakoby je všechny zkoušela. Dnes si chtěla hrát na schovávanou.
  
 Nejdříve uviděl Annu a Elsu. Povídaly si o nějaké veselé situaci z předchozího dne. Objevila se Rapunzel a chtěla se přátelit. Elsa se rychle rozloučila a zmizela. Na chvíli. Přijala výzvu ke hře na schovávanou. Jak byla odvážná!
+
 Kdo chytí Annu a Elsu? Ale pozor, na Rapunzel raději neklikej!
 
 | ![](/images/EA-hide-seek.png) |
