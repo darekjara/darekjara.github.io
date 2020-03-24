@@ -71,7 +71,4 @@ Hra je úmístěna na [code.org](https://studio.code.org/projects/basketball/2Ks
 
 <br>
 
-
-```
-Poděl se o průběh a výsledky zkoumání na email:@
-```
+>Poděl se o průběh a výsledky zkoumání na email:@
